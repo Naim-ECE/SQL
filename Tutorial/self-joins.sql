@@ -1,4 +1,4 @@
--- new things? (ALTER TABLE (ADD COLUMNS)), changing things? (UPDATE TABLE), 
+-- new things? (ALTER TABLE (ADD COLUMNS)), changing things? (UPDATE table_name), 
 -- wanna delete? (DELETE FROM () {WHERE (Make sure it's in or else whole table will collapse)})
 -- wanna join ? (table1 (INNER, LEFT, RIGHT) JOIN table2)
 -- wanna concatanate? SELECT CONCAT(first_name, " ", last_name) AS full_name FROM table1;
